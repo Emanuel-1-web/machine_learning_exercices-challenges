@@ -1,0 +1,1 @@
+**Ce dépôt regroupe mes travaux en Machine Learning, notamment la régression linéaire multiple, la classification supervisée, la classification non supervisée et les réseaux neuronaux convolutionnels (CNN) réalisés dans le cadre de ma formation en Data science organisée par Africitizen.** 
